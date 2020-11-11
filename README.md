@@ -5,3 +5,4 @@ Contributors: Mônica A. C. Valadão1,2,4, Lucas S. Batista3,4
 2 Science and Technology Institute - Universidade Federal dos Vales do Jequitinhonha e Mucuri (url)
 3 Dept. Electrical Engineering - Universidade Federal de Minas Gerais (url)
 4 Operations Research and Complex Systems Lab. - Universidade Federal de Minas Gerais (url)
+# Proposta de um ...
